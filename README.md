@@ -6,7 +6,7 @@ Given EEG data recorded while a subject listened to audio, we train our model us
 
 Our results are promising for applications in brain-computer interaction, such as speech-impaired accessibility. 
 
-It is implemented as part of [CMU 11-785 Course on Deep Learning]([https://deeplearning.cs.cmu.edu/F23/index.html]).
+It is implemented as part of [CMU 11-785 Course on Deep Learning](https://deeplearning.cs.cmu.edu/F23/index.html).
 
 ## Datasets
 
