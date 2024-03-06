@@ -19,11 +19,11 @@ We work with EEG data as it is non-invasive and inexpensive to record compared t
 
 ## Repository Structure
 This repository contains the following files and directories:
-- `brainmagick_updated`: Includes the original Meta's code and our modifications to the model architecture:
+- `brainmagick_updated` folder: Includes the original Meta's code and our modifications to the model architecture:
     - `common.py`
     - `simpleconv.py`
-- `pretrained-models`: Contains the pre-trained model Wav2Vec used for audio embeddings.
-- `notebooks`: A collection of Jupyter notebooks:
+- `pretrained-models` folder: Contains the pre-trained model Wav2Vec used for audio embeddings.
+- `notebooks` folder: A collection of Jupyter notebooks:
     - `mne-eeg-preprocessing.ipynb`: Includes preprocessing of raw EEG data.
     - `baseline model_runner (submitted as mid-term).ipynb`: Contains the runner used to obtain baseline results.
     - `complete-training-pipeline-eda.ipynb`: Features the custom pipeline to run experiments, as well as exploratory data analysis.
