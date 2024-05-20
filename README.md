@@ -1,4 +1,4 @@
-# A Penny for Your Thoughts: Decoding Speech from Inexpensive, Non-Invasive Brain Signals. 
+# A Penny for Your Thoughts: Decoding Speech from Inexpensive, Non-Invasive Brain Signals
 
 ## Background and Objectives
 We investigate whether neural networks can approximate a decoding function by converting brain signals in the form of EEG recordings into speech (brain-to-speech decoding). 
